@@ -18,8 +18,7 @@ Custom fonts must be previously manually installed.
 (N.B.: Qt uses default font if the custom font
 is not pre-installed in Project.)
 
-![DC1](img/Dashboard.PNG)
-
+![alt text](https://github.com/ether-levitation/Cpp_Qt_QML_Dashboard/tree/master/img/Dashboard.png?raw=true)
 ## Activation keys
 
 Keys for Dashboard prototype.
