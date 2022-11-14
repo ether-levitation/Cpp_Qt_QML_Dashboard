@@ -18,7 +18,7 @@ Custom fonts must be previously manually installed.
 (N.B.: Qt uses default font if the custom font
 is not pre-installed in Project.)
 
-<img src="https://github.com/ether-levitation/Cpp_Qt_QML_Dashboard/tree/master/img/Dashboard.png" data-canonical-src="https://github.com/ether-levitation/Cpp_Qt_QML_Dashboard/tree/master/img/Dashboard.png" width="60%" height="50%" />
+<img src="https://github.com/ether-levitation/Cpp_Qt_QML_Dashboard/tree/master/img/Dashboard.png" data-canonical-src="https://github.com/ether-levitation/Cpp_Qt_QML_Dashboard/tree/master/img/Dashboard.png" width="40%" height="30%" />
 ## Activation keys
 
 Keys for Dashboard prototype.
