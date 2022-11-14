@@ -6,11 +6,19 @@ Project created after 4 week Qt Course.
 GUI was created with qml and C++ backend.
 
 ## Prerequisites
-C++ Programming experience
-Javascript Programming experience
-QtQuick / QML Programming experience
-Qt Creator 8.0.1
-Desktop Qt 6.4.0 MinGW 64-bit in Debug-mode
+|Required|Experience|
+|C++|Programming|
+|Javascript|Programming|
+|QML|Programming|
+|QtQuick|Programming|
+
+|Required|Version|
+|Qt Creator|8.0.1|
+|Desktop Qt|6.4.0 MinGW 64-bit in Debug-mode|
+
+|Build Steps|
+qmake.exe Dashboard.pro
+
 Compiler for this project requires Qt-Component:
 - 'Qt 5 Compatibility Module'
 
@@ -19,8 +27,6 @@ Custom fonts must be previously manually installed.
 is not pre-installed in Project.)
 
 ![Dashboard](https://user-images.githubusercontent.com/45797466/201679457-e2fb9052-d1ad-429d-8061-e9de476e4e08.png)
-
-<img src="https://github.com/ether-levitation/Cpp_Qt_QML_Dashboard/tree/master/img/Dashboard.png" data-canonical-src="https://github.com/ether-levitation/Cpp_Qt_QML_Dashboard/tree/master/img/Dashboard.png" width="400" height="150" />
 
 ## Activation keys
 
