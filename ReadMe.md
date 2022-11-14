@@ -6,15 +6,16 @@ Project created after 4 week Qt Course.
 GUI was created with qml and C++ backend.
 
 ## Prerequisites
+|---|---|
 |Required|Experience|
-|C++|Programming|
-|Javascript|Programming|
-|QML|Programming|
-|QtQuick|Programming|
-
-|Required|Version|
-|Qt Creator|8.0.1|
-|Desktop Qt|6.4.0 MinGW 64-bit in Debug-mode|
+|**C++**|Programming|
+|**Javascript**|Programming|
+|**QML**|Programming|
+|**QtQuick**|Programming|
+|---|---|
+|**Required**|Version|
+|**Qt Creator**|8.0.1|
+|**Desktop Qt**|6.4.0 MinGW 64-bit in Debug-mode|
 
 |Build Steps|
 qmake.exe Dashboard.pro
