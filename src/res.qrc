@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Ellipse_Gray_Background.png</file>
+        <file>Ellipse_Silver_Ring.png</file>
+        <file>Fuel_Tank.png</file>
+        <file>FuelTank.qml</file>
+        <file>Gear.png</file>
+        <file>logic.js</file>
+        <file>main.qml</file>
+        <file>reverseCam.PNG</file>
+        <file>Speedometer.qml</file>
+        <file>Tachometer.qml</file>
+        <file>res.qrc</file>
+        <file>White_Indicators.png</file>
+        <file>Tachometer_Indicators.png</file>
+        <file>Ellipse_Seagreen_Indicator.png</file>
+        <file>RobotoMono Regular.ttf</file>
+        <file>Seagreen_Indicator.png</file>
+    </qresource>
+</RCC>
