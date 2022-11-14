@@ -21,7 +21,8 @@ is not pre-installed in Project.)
 
 ![DC1](/Cpp_Qt_QML_Dashboard/blob/master/img/Dashboard.PNG)
 
-<img src="https://github.com/ether-levitation/Cpp_Qt_QML_Dashboard/tree/master/img/Dashboard.png" data-canonical-src="https://github.com/ether-levitation/Cpp_Qt_QML_Dashboard/tree/master/img/Dashboard.png" width="40%" height="30%" />
+<img src="https://github.com/ether-levitation/Cpp_Qt_QML_Dashboard/tree/master/img/Dashboard.png" data-canonical-src="https://github.com/ether-levitation/Cpp_Qt_QML_Dashboard/tree/master/img/Dashboard.png" width="400" height="150" />
+
 ## Activation keys
 
 Keys for Dashboard prototype.
